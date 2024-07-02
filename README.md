@@ -1,4 +1,4 @@
-# Ad-Click-Through-Rate-Forecasting
+# Ad-Click-Through-Rate Forecasting
 
 The technique of calculating the rate at which users click on an advertisement's link to visit the advertiser's website-known as ads click-through rate analysis - allows one to assess the impact of online advertisement
 
